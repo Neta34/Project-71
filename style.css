@@ -1,0 +1,51 @@
+body{
+    background-color: deepskyblue;
+    color: black;
+    font-weight: bold;
+}
+
+.book
+{
+  cursor: pointer;
+    color: black;
+      font-weight: bold;
+}
+
+.sport hr
+{
+  margin-bottom: 10px;
+    color: black;
+      font-weight: bold;
+}
+
+.modal-content
+{
+  margin-top: 100px;
+    color: black;
+      font-weight: bold;
+}
+
+.img_modal
+  {
+    display: inline-block;
+    
+  }
+.p_modal
+  {
+      margin-top: 10px;
+      color: black;
+      font-weight: bold;
+}
+.modal-body
+{
+    text-align: center;
+    color: black;
+    font-weight: bold;
+}
+p{
+    color: black;
+      font-weight: bold;
+}
+
+
+
